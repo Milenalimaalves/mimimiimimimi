@@ -107,3 +107,12 @@ body{
 <section class="estudante">
     
 </section>
+body{
+font-family:'Poppins',sans-serif;
+}
+.estudante-imagem{
+width:24px;
+}
+.estudante-div{
+text-align:center;
+}
